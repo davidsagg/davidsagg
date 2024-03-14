@@ -4,7 +4,7 @@
 Meu nome é **David Saggioro** e esse é o meu portfólio no Github. Já atuei por mais de 20 anos em TI, fui co-fundador de uma empresa de serviços de ERP Oracle e sempre trabalhei com dados. Meu objetivo é continuar apoiando empresas de diversos segmentos com projetos de dados e ERP, sejam nacionais ou internacionais.
 
 **Linguagens e Ferramentas:**
-Python, SQL, Git, Github, Power BI, VS Code, Bash
+Python (Numpy, Pandas, Matplotlib, Seaborn, Streamlit, Sweetviz), SQL, Git, Github, Power BI, VS Code, Bash
 
 **Ciência de dados:**
 Análise exploratória, inferência estatística e modelos preditivos utilizando Machine Learning, com métodos supervisionados e não supervisionados.
