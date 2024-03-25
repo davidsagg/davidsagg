@@ -14,7 +14,7 @@ Análise exploratória, inferência estatística e modelos preditivos utilizando
 Gerenciamento de Projetos, Planejamento Estratégico de Vendas, Gestão de Delivery e Vendas.
 
 Principais Links:
-- [Projetos de Dados](https://github.com/davidsagg/data_projects) - esse é o meu repositório principal, com o portfólio de projetos e cases.
+- [Projetos de Dados](https://github.com/davidsagg/data_projects) - Esse é o meu repositório principal, com o portfólio de projetos e cases.
 - [Meu Site](https://davidsaggioro.carrd.co/) - Minha página com links para cada artigo, além da Bio completa.
 - [![LinkedIn Profile](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&amp;logo=Linkedin&amp;logoColor=white&amp)](https://www.linkedin.com/in/davidsaggioro/) - Meu perfil no LinkedIn.
 
@@ -28,6 +28,6 @@ Data science: Exploratory analysis, statistical inference and predictive models 
 Other Skills: Project Management, Strategic Sales Planning, Delivery and Sales Management.
 
 Main Links:
-- [Data Projects](https://github.com/davidsagg/data_projects) - this is my main repository, with my portfolio of projects and cases.
+- [Data Projects](https://github.com/davidsagg/data_projects) - This is my main repository, with my portfolio of projects and cases.
 - [My Website](https://davidsaggioro.carrd.co/) - My page with links to each article, as well as my full Bio.
 - [![LinkedIn Profile](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&amp;logo=Linkedin&amp;logoColor=white&amp)](https://www.linkedin.com/in/davidsaggioro/) - My profile on LinkedIn.
