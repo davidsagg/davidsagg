@@ -15,6 +15,7 @@ Gerenciamento de Projetos, Planejamento Estratégico de Vendas, Gestão de Deliv
 
 Principais Links:
 - [Projetos de Dados](https://github.com/davidsagg/data_projects) - Esse é o meu repositório principal, com o portfólio de projetos e cases.
+- [Work in Progress](https://github.com/davidsagg/work_in_progress) - Repositório com modelos e cases em andamento.
 - [Meu Site](https://davidsaggioro.carrd.co/) - Minha página com links para cada artigo, além da Bio completa.
 - [![LinkedIn Profile](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&amp;logo=Linkedin&amp;logoColor=white&amp)](https://www.linkedin.com/in/davidsaggioro/) - Meu perfil no LinkedIn.
 
@@ -29,5 +30,6 @@ Other Skills: Project Management, Strategic Sales Planning, Delivery and Sales M
 
 Main Links:
 - [Data Projects](https://github.com/davidsagg/data_projects) - This is my main repository, with my portfolio of projects and cases.
+- [Work in Progress](https://github.com/davidsagg/work_in_progress) - Repository with on-going models and case studies.
 - [My Website](https://davidsaggioro.carrd.co/) - My page with links to each article, as well as my full Bio.
 - [![LinkedIn Profile](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&amp;logo=Linkedin&amp;logoColor=white&amp)](https://www.linkedin.com/in/davidsaggioro/) - My profile on LinkedIn.
